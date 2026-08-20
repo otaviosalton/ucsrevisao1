@@ -1,0 +1,1 @@
+- Frases curtas, na voz ativa. 
