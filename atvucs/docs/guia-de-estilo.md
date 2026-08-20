@@ -1,1 +1,3 @@
-- Titulos de filmes em italico. 
+- T¡tulos de filmes em it lico. 
+- Frases curtas, na voz ativa. 
+- Datas no formato dd/mm/aaaa. 
