@@ -1,4 +1,7 @@
 # Manual da Mostra Cine UCS 
-Indice 
+ 
+## Öndice 
 - [Sobre a mostra](docs/sobre.md) 
-- [Agenda](docs/agenda.md) 
+- [Programa‡Æo](docs/programacao.md) 
+ 
+## Como usar este manual 
